@@ -1,11 +1,16 @@
 _repo: La-vera-cuciniera-genovese-facile-ed-economica-ossia-maniera-di-preparare-e-cuocere-ogni-sort__51857
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51857-h/images/cover.jpg
 creator:
   author:
     agent_name: Rossi, Emanuele
     gutenberg_agent_id: '46578'
     url: http://www.gutenberg.org/2009/agents/46578
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51857#La-vera-cuciniera-genovese-facile-ed-economica-ossia-maniera-di-preparare-e-cuocere-ogni-sort_
 gutenberg_bookshelf: IT Cucina
 gutenberg_issued: '2016-04-25'
 gutenberg_type: Text
