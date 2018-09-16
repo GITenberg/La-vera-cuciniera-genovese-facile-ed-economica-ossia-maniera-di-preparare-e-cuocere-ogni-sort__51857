@@ -1,0 +1,24 @@
+_repo: La-vera-cuciniera-genovese-facile-ed-economica-ossia-maniera-di-preparare-e-cuocere-ogni-sort__51857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rossi, Emanuele
+    gutenberg_agent_id: '46578'
+    url: http://www.gutenberg.org/2009/agents/46578
+description: ''
+gutenberg_bookshelf: IT Cucina
+gutenberg_issued: '2016-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51857'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, Italian'
+- !lcc 'TX'
+- GITenberg
+title: "La vera cuciniera genovese\r\nfacile ed economica, ossia maniera di preparare\
+  \ e cuocere ogni sorta di vivande all'usanza di Genova"
+url: http://www.gutenberg.org/ebooks/51857
